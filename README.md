@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Arunda
+
+Self-taught developer from Colombo, Sri Lanka. I build full-stack web apps with an AI-assisted workflow and review the output by hand.
+
+## Projects
+- **iLike**: a live social platform for finding people who share your interests. Real-time chat, push notifications, moderation tools. [ilike.arunda.workers.dev](https://ilike.arunda.workers.dev/)
+- **Nexus**: a company website with an admin panel and a customer portal on Supabase. [Nexus link]
+
+## Now learning
+Python, Linux, networking and cloud (AWS).
+
+## Links
+[Portfolio](https://arund-dev.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/arund-dev)## Hi there 👋
 
 <!--
 **arund-dev/arund-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
