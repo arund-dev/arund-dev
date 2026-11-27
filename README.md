@@ -7,7 +7,7 @@ Self-taught developer from Colombo, Sri Lanka. I build full-stack web apps with 
 - **Nexus**: a company website with an admin panel and a customer portal on Supabase. [arund-dev.github.io/nexus-portals/](https://arund-dev.github.io/nexus-portals/)
 
 ## Links
-[Portfolio](https://arund-dev.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/arund-dev)## Hi there 👋
+[Portfolio](https://arund-dev.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/arund-dev)
 
 <!--
 **arund-dev/arund-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
